@@ -1,0 +1,9 @@
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+user.name=Ozodbek
+user.email=ozodbek.xomidbekov@gmail.com
+core.editor=code --wait
+core.autocrlf=true
+color.ui=auto
